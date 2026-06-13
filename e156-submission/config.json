@@ -3,7 +3,7 @@
   "slug": "ctgov-modality-sponsor-repeaters",
   "author": "Mahmood Ahmad",
   "date": "2026-03-29",
-  "path": "C:\\Projects\\ctgov-analyses/ctgov-modality-sponsor-repeaters",
+  "path": "https://github.com/mahmood726-cyber/ctgov-modality-sponsor-repeaters",
   "type": "methods",
   "primary_estimand": "Sponsor-level 2-year no-results counts within intervention families among eligible older CT.gov studies",
   "summary": "A standalone E156 project on how the leading hiddenness sponsors change when CT.gov studies are split by intervention family.",
